@@ -2,7 +2,7 @@
 // environment.prod.ts — Configuración PRODUCCIÓN
 // Usado con: ng build --configuration production
 //
-// ⚠️  REEMPLAZA las URLs después de desplegar:
+//  REEMPLAZA las URLs después de desplegar:
 //   apiUrl      → URL de tu backend en Render
 //   keycloakUrl → URL de tu Keycloak en Azure
 // ============================================================
