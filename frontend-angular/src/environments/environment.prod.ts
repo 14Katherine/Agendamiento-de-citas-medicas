@@ -9,8 +9,6 @@
 
 export const environment = {
   production: true,
-  // Cambia esto a la URL de tu backend en Render
-  apiUrl:       'https://clinica-backend.onrender.com/api/v1',
-  // Cambia esto a la URL de tu Keycloak en Render
-  keycloakUrl:  'https://clinica-keycloak.onrender.com'
+  apiUrl: 'https://agendamiento-de-citas-medicas.onrender.com/api/v1',
+  keycloakUrl: 'http://keycloak-clinica.eastus.azurecontainer.io:8080'
 };
